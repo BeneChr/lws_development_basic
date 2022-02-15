@@ -1,1 +1,8 @@
-###Erste Zeile in README.md erstellt
+#LWS Development Basics
+
+files: 
+
+        .git
+        .gitignore
+        README.md
+        main.py
